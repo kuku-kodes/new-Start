@@ -33,14 +33,6 @@ This project is made during the Namaste React Course Akshay Saini👩‍💻
 #### Cart Page:-
 ![3](https://github.com/user-attachments/assets/9f3d0ea8-60b9-462d-b8a1-4d2e707f09de)
 
-"git+https://github.com/SohamShinde160/Namaste-React-2.0.git"
-
-"https://github.com/SohamShinde160/Namaste-React-2.0/issues"
-
-"https://github.com/SohamShinde160/Namaste-React-2.0#readme",
-
-
-
 # Parcel
 Dev Build 🔗Local server
 HMR = Hot Module Replacement
