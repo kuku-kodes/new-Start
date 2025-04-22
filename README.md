@@ -21,18 +21,6 @@ This project is made during the Namaste React Course Akshay Saini👩‍💻
 
 ` Make sure you've enabled CORS extension installed in your browser while fetching Swiggy Live API `
 
-#### Drop ⭐ if you like the Repository
-
-## Screenshots:-
-#### Home Page:-
-![1](https://github.com/user-attachments/assets/3b493398-a297-44a6-b363-e2c7bbaf1e59)
-
-#### Restuarant Menu Page:-
-![2](https://github.com/user-attachments/assets/abeb7c13-5378-43fd-b57e-45b1d628d4fd)
-
-#### Cart Page:-
-![3](https://github.com/user-attachments/assets/9f3d0ea8-60b9-462d-b8a1-4d2e707f09de)
-
 # Parcel
 Dev Build 🔗Local server
 HMR = Hot Module Replacement
